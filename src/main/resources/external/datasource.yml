@@ -1,0 +1,5 @@
+mysql:
+  driver: com.mysql
+  url: localhost:8086
+  username: mawt
+  password: 111111

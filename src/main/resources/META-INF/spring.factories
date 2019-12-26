@@ -1,0 +1,5 @@
+#org.springframework.boot.env.EnvironmentPostProcessor=cn.dgkj.applistener.CustomAppListener
+
+#org.springframework.context.ApplicationContextInitializer=cn.dgkj.initializer.CustomApplicationContextInitializer
+
+org.springframework.boot.env.PropertySourceLoader=cn.dgkj.cPropertySourceLoader.CustomPropertySourceLoader
